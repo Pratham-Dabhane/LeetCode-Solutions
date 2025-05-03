@@ -10,9 +10,14 @@ This repository contains my solutions to various LeetCode problems implemented i
 - 14. Longest Common Prefix
 - 26. Remove Duplicates from Sorted Array
 - 94. Binary Tree Inorder Traversal
+- 136. Single Number
+- 189. Rotate Array
+- 268. Missing Number
 - 283. Move Zeros
+- 485. Max Consecutive Ones
 - 509. Fibonacci Number
 - 1332. Remove Palindromic Subsequences
+- 704. Binary Search
 
 ## About
 
