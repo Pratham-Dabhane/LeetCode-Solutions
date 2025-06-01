@@ -18,6 +18,7 @@ This repository contains my solutions to various LeetCode problems implemented i
 - Fibonacci Number (#509)
 - Binary Search (#704)
 - Remove Palindromic Subsequences (#1332)
+- Partition Array into Two Equal Product Subsets (#3566)
 
 ## About
 
