@@ -12,6 +12,7 @@ This repository contains my solutions to various LeetCode problems implemented i
 - Sort Colors (#75)
 - Binary Tree Inorder Traversal (#94)
 - Single Number (#136)
+- Majority Element (#169)
 - Rotate Array (#189)
 - Missing Number (#268)
 - Move Zeros (#283)
