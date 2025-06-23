@@ -9,6 +9,7 @@ This repository contains my solutions to various LeetCode problems implemented i
 - Roman to Integer (#13)
 - Longest Common Prefix (#14)
 - Remove Duplicates from Sorted Array (#26)
+- Sort Colors (#75)
 - Binary Tree Inorder Traversal (#94)
 - Single Number (#136)
 - Rotate Array (#189)
