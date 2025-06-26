@@ -11,6 +11,7 @@ This repository contains my solutions to various LeetCode problems implemented i
 - Remove Duplicates from Sorted Array (#26)
 - Sort Colors (#75)
 - Binary Tree Inorder Traversal (#94)
+- Best Time to Buy and Sell Stock (#121)
 - Single Number (#136)
 - Majority Element (#169)
 - Rotate Array (#189)
