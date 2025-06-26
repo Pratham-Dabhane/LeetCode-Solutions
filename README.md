@@ -2,6 +2,13 @@
 
 This repository contains my solutions to various LeetCode problems implemented in Python.
 
+## 🧠 LeetCode Profile
+  <a href="https://www.leetcode.com/Pratham-Dabhane" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Pratham-Dabhane" height="50" width="60" />
+  </a>
+
+[LeetCode](https://leetcode.com/u/Pratham-Dabhane/)
+
 ## Problems Included
 
 - Two Sum (#1)
