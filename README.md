@@ -17,6 +17,7 @@ This repository contains my solutions to various LeetCode problems implemented i
 - Longest Common Prefix (#14)
 - Remove Duplicates from Sorted Array (#26)
 - Remove Element (#27)
+- Next Permutation (#31)
 - Maximum Subarray (#53)
 - Sort Colors (#75)
 - Binary Tree Inorder Traversal (#94)
