@@ -26,6 +26,7 @@ This repository contains my solutions to various LeetCode problems implemented i
 - Single Number (#136)
 - Majority Element (#169)
 - Rotate Array (#189)
+- Minimum Size Subarray Sum (#209)
 - Missing Number (#268)
 - Move Zeros (#283)
 - Max Consecutive Ones (#485)
