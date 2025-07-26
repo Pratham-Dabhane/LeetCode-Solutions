@@ -32,6 +32,7 @@ This repository contains my solutions to various LeetCode problems implemented i
 - Move Zeros (#283)
 - Max Consecutive Ones (#485)
 - Fibonacci Number (#509)
+- Subarray Sum Equals K (#560)
 - Binary Search (#704)
 - Squares of a Sorted Array (#977)
 - Remove Palindromic Subsequences (#1332)
