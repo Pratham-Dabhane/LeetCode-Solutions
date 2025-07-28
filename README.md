@@ -19,6 +19,7 @@ This repository contains my solutions to various LeetCode problems implemented i
 - Remove Element (#27)
 - Next Permutation (#31)
 - Maximum Subarray (#53)
+- Set Matrix Zero (#73)
 - Sort Colors (#75)
 - Merge Sorted Array (#88)
 - Binary Tree Inorder Traversal (#94)
