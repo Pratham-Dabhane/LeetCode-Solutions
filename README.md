@@ -13,6 +13,7 @@ This repository contains my solutions to various LeetCode problems implemented i
 
 - Two Sum (#1)
 - Palindrome Number (#9)
+- Container With Most Water (#11)
 - Roman to Integer (#13)
 - Longest Common Prefix (#14)
 - Remove Duplicates from Sorted Array (#26)
